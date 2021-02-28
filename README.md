@@ -5,6 +5,6 @@
  make all   
  
  __Execute:__   
- ./v0 (size_image) (size_image) (size_patch) (size_patch) (txt)
- ./v1 (size_image) (size_image) (size_patch) (size_patch) (txt)
- ./v2 (size_image) (size_image) (size_patch) (size_patch) (txt)
+ ./v0 (size_image) (size_image) (size_patch) (size_patch) (txt)    
+ ./v1 (size_image) (size_image) (size_patch) (size_patch) (txt)    
+ ./v2 (size_image) (size_image) (size_patch) (size_patch) (txt)    
