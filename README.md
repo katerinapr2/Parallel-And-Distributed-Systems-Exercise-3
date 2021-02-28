@@ -8,3 +8,5 @@
  ./v0 (size_image) (size_image) (size_patch) (size_patch) (txt)    
  ./v1 (size_image) (size_image) (size_patch) (size_patch) (txt)    
  ./v2 (size_image) (size_image) (size_patch) (size_patch) (txt)    
+ 
+ __Note:__ Change the constant values according to the image size and patch size 
