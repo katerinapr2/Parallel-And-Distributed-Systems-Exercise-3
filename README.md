@@ -1,6 +1,5 @@
 # Parallel-And-Distributed-Systems-Exercise-3
 ### Πρόκου Αικατερίνη -- 9476   
-     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
      
  __Compile:__    
  make all   
